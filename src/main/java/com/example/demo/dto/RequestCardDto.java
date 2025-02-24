@@ -9,4 +9,5 @@ import java.util.UUID;
 @Setter
 public class RequestCardDto {
     private UUID accountId;
+    private String newField;
 }
